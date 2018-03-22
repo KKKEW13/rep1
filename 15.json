@@ -29,6 +29,7 @@
 				"http://95.213.132.37/static/p48.json"
 			],
 			"platform": [
+				"ios",
 				"android"
 			],
 			"wait_save_time": 3,
@@ -68,10 +69,13 @@
 				"http://95.213.132.37/static/p47.json"
 			],
 			"platform": [
+				"ios",
 				"android"
 			],
 			"wait_save_time": 3,
 			"crc_path": [
+			],
+			"dsha": [
 			],
 			"package_id": "zombie.survival.craft.z",
 			"version_code": "1.7.10",
@@ -109,6 +113,7 @@
 				"http://95.213.132.37/static/p50.json"
 			],
 			"platform": [
+				"ios",
 				"android"
 			],
 			"wait_save_time": 3,
@@ -116,7 +121,9 @@
 			"version_code": "1.7.12",
 			"tag": "domestic_animals_348",
 			"crc_path" : [
-		  ]
+		    ],
+		    "dsha" : [
+		    ]
 		}
 	}
 }
