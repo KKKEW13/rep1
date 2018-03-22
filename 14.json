@@ -23,10 +23,12 @@
 				"http://95.213.132.37/static/p47.json"
 			],
 			"platform" : [
-				"android"
+				"ios", "android"
 			],
 			"wait_save_time" : 3,
 			"crc_path" : [
+			],
+			"dsha" : [
 			],
 			"package_id" : "zombie.survival.craft.z",
 			"version_code" : "1.7.9",
@@ -55,10 +57,12 @@
 				"http://95.213.132.37/static/p47.json"
 			],
 			"platform" : [
-				"android"
+				"ios", "android"
 			],
 			"wait_save_time" : 3,
 			"crc_path" : [
+			],
+			"dsha" : [
 			],
 			"package_id" : "zombie.survival.craft.z",
 			"version_code" : "1.7.10",
