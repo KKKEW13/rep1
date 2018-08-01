@@ -1,0 +1,264 @@
+{
+	"versions" : {
+		"-1" : {
+			"host_urls" : ["http://http-01.ldoe.kefirgames.ru", "http://http-02.ldoe.kefirgames.ru"],
+			"battle_url" : [
+				"http://games-ldoe-gs1.kefirgames.ru/lgoin/",
+				"http://games-ldoe-gs2.kefirgames.ru/lgoin/"
+			],
+			"main_url" : [
+				"http://games-ldoe-gs1.kefirgames.ru/",
+				"http://games-ldoe-gs2.kefirgames.ru/"
+			],
+			"ping_urls" : [
+				"http://cfg-01.ldoe.kefirgames.ru/ldoez_ts_4",
+				"http://cfg-02.ldoe.kefirgames.ru/ldoez_ts_4"
+			],
+			"raid_locations_url" : [
+				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9/"
+			],
+			"enabled_appcrc" : true,
+			"connect_key" : "ed98c3c3cd8d53e575958a4aafdbc6c5",
+			"ads_lang" : [],
+			"ads_lang_ios" : [],
+			"reference_urls" : [
+				"http://cfg-01.ldoe.kefirgames.ru/static/r386.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r386.dat"
+			],
+			"sync_reference_urls" : ["http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_3.dat"],
+			"show_patch_note" : false,
+			"patch_note_urls" : [
+				"http://cfg-01.ldoe.kefirgames.ru/static/p60.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p60.json"
+			],
+			"platform" : [
+				"android",
+				"ios"
+			],
+			"enable_websocket" : false,
+			"wait_save_time" : 3,
+			"version_sync" : "3",
+			"package_id" : "zombie.survival.craft.z",
+			"version_code" : "1.9",
+			"tag" : "release_1.9_hotfix"
+		},
+		"-2": {
+			"host_urls": [
+				"http://http-01.ldoe.kefirgames.ru", 
+				"http://http-02.ldoe.kefirgames.ru"
+			],
+			"host_2_urls": [
+				"http://gs-01.ldoe.kefirgames.ru",
+				"http://gs-02.ldoe.kefirgames.ru"
+			],
+			"transport_2": true,
+			"time_out" : 60000,
+			"ping_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/ldoez_ts_4",
+				"http://cfg-02.ldoe.kefirgames.ru/ldoez_ts_4"
+			],
+			"raid_locations_url": [
+				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9/"
+			],
+			"ads_lang": [],
+			"ads_lang_ios": [],
+			"reference_urls" : [
+				"http://cfg-01.ldoe.kefirgames.ru/static/r391.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r391.dat"
+			],
+			"sync_reference_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_4.dat"
+			],
+			"connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
+			"show_patch_note": true,
+			"patch_note_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/p62.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p62.json"
+			],
+			"platform": [
+				"android",
+				"ios"
+			],
+			"wait_save_time": 3,
+			"package_id": "zombie.survival.craft.z",
+			"version_code": "1.9.2",
+			"version_sync": "4",
+			"tag": "farm_mem_test_22150",
+			"server_down_time": "2018-06-29 13:44"
+		},
+		"75": {
+			"host_urls": [
+				"http://http-01.ldoe.kefirgames.ru", 
+				"http://http-02.ldoe.kefirgames.ru"
+			],
+			"host_2_urls": [
+				"http://gs-01.ldoe.kefirgames.ru",
+				"http://gs-02.ldoe.kefirgames.ru"
+			],
+			"transport_2": true,
+			"time_out" : 60000,
+			"ping_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/ldoez_ts_4",
+				"http://cfg-02.ldoe.kefirgames.ru/ldoez_ts_4"
+			],
+			"raid_locations_url": [
+				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9/"
+			],
+			"ads_lang": [],
+			"ads_lang_ios": [],
+			"reference_urls" : [
+				"http://cfg-01.ldoe.kefirgames.ru/static/r390.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r390.dat"
+			],
+			"sync_reference_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_4.dat"
+			],
+			"connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
+			"show_patch_note": true,
+			"patch_note_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/p62.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p62.json"
+			],
+			"platform": [
+				"ios",
+				"android"
+			],
+			"wait_save_time": 3,
+			"package_id": "zombie.survival.craft.z",
+			"version_code": "1.9.2",
+			"version_sync": "4",
+			"tag": "release_1.9.2_ios",
+			"server_down_time": "2018-06-29 13:44"
+		},
+		"76": {
+			"host_urls": [
+				"http://http-01.ldoe.kefirgames.ru", 
+				"http://http-02.ldoe.kefirgames.ru"
+			],
+			"host_2_urls": [
+				"http://gs-01.ldoe.kefirgames.ru",
+				"http://gs-02.ldoe.kefirgames.ru"
+			],
+			"transport_2": true,
+			"time_out" : 60000,
+			"ping_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/ldoez_ts_4",
+				"http://cfg-02.ldoe.kefirgames.ru/ldoez_ts_4"
+			],
+			"raid_locations_url": [
+				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9/"
+			],
+			"ads_lang": [],
+			"ads_lang_ios": [],
+			"reference_urls" : [
+				"http://cfg-01.ldoe.kefirgames.ru/static/r390.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r390.dat"
+			],
+			"sync_reference_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_4.dat"
+			],
+			"connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
+			"show_patch_note": true,
+			"patch_note_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/p62.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p62.json"
+			],
+			"platform": [
+				"android"
+			],
+			"wait_save_time": 3,
+			"package_id": "zombie.survival.craft.z",
+			"version_code": "1.9.2",
+			"version_sync": "4",
+			"tag": "release_1.9.2_android",
+			"server_down_time": "2018-06-29 13:44"
+		},
+		"77": {
+			"host_urls": [
+				"http://http-01.ldoe.kefirgames.ru", 
+				"http://http-02.ldoe.kefirgames.ru"
+			],
+			"host_2_urls": [
+				"http://gs-01.ldoe.kefirgames.ru",
+				"http://gs-02.ldoe.kefirgames.ru"
+			],
+			"transport_2": true,
+			"time_out" : 60000,
+			"ping_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/ldoez_ts_4",
+				"http://cfg-02.ldoe.kefirgames.ru/ldoez_ts_4"
+			],
+			"raid_locations_url": [
+				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9/"
+			],
+			"ads_lang": [],
+			"ads_lang_ios": [],
+			"reference_urls" : [
+				"http://cfg-01.ldoe.kefirgames.ru/static/r395.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r395.dat"
+			],
+			"sync_reference_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_4.dat"
+			],
+			"connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
+			"show_patch_note": true,
+			"patch_note_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/p63.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p63.json"
+			],
+			"platform": [
+				"android"
+			],
+			"wait_save_time": 3,
+			"package_id": "zombie.survival.craft.z",
+			"version_code": "1.9.3",
+			"version_sync": "4",
+			"tag": "release_1.9.3_beta_android",
+			"server_down_time": "2018-06-29 13:44"
+		},
+		"78": {
+			"host_urls": [
+				"http://http-01.ldoe.kefirgames.ru", 
+				"http://http-02.ldoe.kefirgames.ru"
+			],
+			"host_2_urls": [
+				"http://gs-01.ldoe.kefirgames.ru",
+				"http://gs-02.ldoe.kefirgames.ru"
+			],
+			"transport_2": true,
+			"time_out" : 10000,
+			"ping_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/ldoez_ts_4",
+				"http://cfg-02.ldoe.kefirgames.ru/ldoez_ts_4"
+			],
+			"raid_locations_url": [
+				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9/"
+			],
+			"ads_lang": [],
+			"ads_lang_ios": [],
+			"reference_urls" : [
+				"http://cfg-01.ldoe.kefirgames.ru/static/r398.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r398.dat"
+			],
+			"sync_reference_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_4.dat"
+			],
+			"connect_key": "ed98c3c3cd8d53e575958a4aafdbc6c5",
+			"show_patch_note": true,
+			"patch_note_urls": [
+				"http://cfg-01.ldoe.kefirgames.ru/static/p63.json",
+				"http://cfg-02.ldoe.kefirgames.ru/static/p63.json"
+			],
+			"platform": [
+				"android",
+				"ios"
+			],
+			"wait_save_time": 3,
+			"package_id": "zombie.survival.craft.z",
+			"version_code": "1.9.3",
+			"version_sync": "4",
+			"tag": "release_1.9.3",
+			"server_down_time": "2018-06-29 13:44"
+		}
+	}
+}
