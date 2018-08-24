@@ -10,6 +10,10 @@
 				"http://games-ldoe-gs1.kefirgames.ru/",
 				"http://games-ldoe-gs2.kefirgames.ru/"
 			],
+			"host_2_urls": [
+				"http://gs-01.ldoe.kefirgames.ru",
+				"http://gs-02.ldoe.kefirgames.ru"
+			],
 			"ping_urls" : [
 				"http://cfg-01.ldoe.kefirgames.ru/ldoez_ts_4",
 				"http://cfg-02.ldoe.kefirgames.ru/ldoez_ts_4"
@@ -17,15 +21,16 @@
 			"raid_locations_url" : [
 				"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9/"
 			],
+			"transport_2": true,
 			"enabled_appcrc" : true,
 			"connect_key" : "ed98c3c3cd8d53e575958a4aafdbc6c5",
 			"ads_lang" : [],
 			"ads_lang_ios" : [],
 			"reference_urls" : [
-				"http://cfg-01.ldoe.kefirgames.ru/static/r386.dat",
-				"http://cfg-02.ldoe.kefirgames.ru/static/r386.dat"
+				"http://cfg-01.ldoe.kefirgames.ru/static/r423.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r423.dat"
 			],
-			"sync_reference_urls" : ["http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_3.dat"],
+			"sync_reference_urls" : ["http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_4.dat"],
 			"show_patch_note" : false,
 			"patch_note_urls" : [
 				"http://cfg-01.ldoe.kefirgames.ru/static/p60.json",
@@ -40,7 +45,8 @@
 			"version_sync" : "3",
 			"package_id" : "zombie.survival.craft.z",
 			"version_code" : "1.9",
-			"tag" : "unity_test"
+			"tag" : "unity_test",
+			"server_down_time": "2018-06-29 13:44"
 		},
 		"79": {
 			"host_urls": [
@@ -92,8 +98,8 @@
 				"http://http-02.ldoe.kefirgames.ru"
 			],
 			"host_2_urls": [
-				"http://gs-stage.ldoe.kefirgames.ru",
-				"http://gs-stage.ldoe.kefirgames.ru"
+				"http://gs-01.ldoe.kefirgames.ru",
+				"http://gs-02.ldoe.kefirgames.ru"
 			],
 			"transport_2": true,
 			"time_out" : 10000,
@@ -107,8 +113,8 @@
 			"ads_lang": [],
 			"ads_lang_ios": [],
 			"reference_urls" : [
-				"http://cfg-01.ldoe.kefirgames.ru/static/r419.dat",
-				"http://cfg-02.ldoe.kefirgames.ru/static/r419.dat"
+				"http://cfg-01.ldoe.kefirgames.ru/static/r425.dat",
+				"http://cfg-02.ldoe.kefirgames.ru/static/r425.dat"
 			],
 			"sync_reference_urls": [
 				"http://cfg-01.ldoe.kefirgames.ru/static/sync_references_client_4.dat"
